@@ -5,6 +5,7 @@
 - bundle
 - bundle update
 - jekyll serve
+- bundle info --path minima
 
 ## Themes
 ### Themes Choose
