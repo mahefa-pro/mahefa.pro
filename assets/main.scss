@@ -1,0 +1,17 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+    font-family: 
+        'Cascadia Code', 
+        'Fira Code', 
+        Monaco, 
+        Consolas, 
+        Ubuntu Mono, 
+        monospace
+    ;
+    font-weight: 300;
+}
