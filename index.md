@@ -27,16 +27,16 @@ Snippets of code, configuration, or script–typically hard-earned–that might 
 
 [Thesis](https://thesis.mahefa.pro/)
 
-_n. Everything I want to write on_
+_n. Everything related to my thesis work_
 
-My
+My current and planning thesis work
 <br/><br/>
 
 [Blog](/blog)
 
 _n. Everything I want to write on_
 
-Snippets of code, configuration, or script–typically hard-earned–that might save you from Googling.
+I love to write posts in my field.
 <br/><br/>
 
 <!-- [Contact](/contact) -->
