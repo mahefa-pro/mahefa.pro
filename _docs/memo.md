@@ -37,3 +37,7 @@
 ### CV examples
 - https://longpdo.github.io/neumorphism/
 - https://moya10.github.io/awesome-cv/
+
+
+### Templates Visualy interesting
+- https://uncommon-template.webflow.io/
