@@ -8,7 +8,7 @@ list_title: Blog Post
     
 <h1> Mahefa Abel </h1>
 
-I’m a software engineer from Madagascar.
+I’m a Software Engineer & Lead Developer from Madagascar.
 <br/><br/>
 
 [Projects](/projects)
