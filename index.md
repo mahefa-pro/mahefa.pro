@@ -25,12 +25,12 @@ _n. spells or verbal charms spoken as part of a ritual_
 Snippets of code, configuration, or script–typically hard-earned–that might save you from Googling.
 <br/><br/> -->
 
-[Thesis](https://thesis.mahefa.pro/)
+<!-- [Thesis](https://thesis.mahefa.pro/)
 
 _n. Everything related to my thesis work_
 
 My current and planning thesis work
-<br/><br/>
+<br/><br/> -->
 
 [Blog](/blog)
 
