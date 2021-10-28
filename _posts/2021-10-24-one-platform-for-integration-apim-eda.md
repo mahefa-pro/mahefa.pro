@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "News release APIM with Event-Driven Architecture"
+title:  "News in APIM with Event-Driven Architecture"
 date:   2021-10-24 11:26:45 +0300
 categories: wso2 apim eda
 ---
