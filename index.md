@@ -8,7 +8,11 @@ list_title: Blog Post
     
 <h1> Mahefa Abel </h1>
 
-I’m a Senior Software Engineer, Architect & Technical Lead from Madagascar.
+I’m a :
+
+ - Technical Lead (Main professional activity)
+ - Senior Software Engineer (Passional activity)
+ - Software Architect
 <br/><br/>
 
 [Projects](/projects)
