@@ -3,6 +3,7 @@ layout: post
 title:  "News in APIM with Event-Driven Architecture"
 date:   2021-10-24 11:26:45 +0300
 categories: wso2 apim eda
+image: "/assets/images/wso2-apim.gif"
 ---
 
 ![WSO2 APIM](/assets/images/wso2-apim.gif)
