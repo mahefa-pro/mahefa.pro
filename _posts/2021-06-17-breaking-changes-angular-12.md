@@ -24,7 +24,7 @@ L'une des principales améliorations d'Angular 12 est que les stratégies de la 
 
 #### Core:
 
-Le type du jeton APP_INITIALIZER a été modifié pour refléter plus précisément les types de valeurs de retour pris en charge par Angular. Avant cela, chaque rappel d'initialisation était composé pour en renvoyer n'importe lequel, il s'agit actuellement de Promise <unknown> | Observable <inconnu> | annuler.
+Le type du jeton `APP_INITIALIZER` a été modifié pour refléter plus précisément les types de valeurs de retour pris en charge par Angular. Avant cela, chaque rappel d'initialisation était composé pour en renvoyer n'importe lequel, il s'agit actuellement de `Promise <unknown>` | `Observable <inconnu>`.
 
 #### Compiler - CLI:
 
@@ -39,4 +39,4 @@ Auparavant, les attributs « min » et « max » caractérisés sur le `<inp
 XhrFactory a été déplacé de `@angular/normal/http` vers `@angular/normal`.
 
 **Router**:  
-Des contrôles non valides stricts rendront compte du fait qu'une partie est peut-être invalide. Le type de l'entrée RouterLinkActive.routerLinkActiveOptions a été étendu pour permettre un contrôle encore plus ajusté. Le code qui a récemment lu cette propriété peut être mis à jour pour représenter le nouveau type.
+Des contrôles non valides stricts rendront compte du fait qu'une partie est peut-être invalide. Le type de l'entrée `RouterLinkActive.routerLinkActiveOptions` a été étendu pour permettre un contrôle encore plus ajusté. Le code qui a récemment lu cette propriété peut être mis à jour pour représenter le nouveau type.
