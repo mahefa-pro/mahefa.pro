@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some breaking changes in Angular 12"
+title:  "Quelques changements de rupture dans Angular 12"
 date:   2021-06-17 18:26:45 +0300
 categories: spa angular
 image: "/assets/images/Angular-12-Now-Released.png"
@@ -8,9 +8,9 @@ author: "Mahefa Abel"
 locale: "fr"
 ---
 
-![Image Angular 12](/assets/images/Angular-12-Now-Released.png)
+![Angular 12](/assets/images/Angular-12-Now-Released.png)
 
-### Breaking changes in Angular 12
+### Changements marquants dans Angular 12
 
 Voici quelques gros changements angular 12
 
