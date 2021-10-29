@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quelques changements de rupture dans Angular 12"
+title:  "Quelques gros marquants dans Angular 12"
 date:   2021-06-17 18:26:45 +0300
 categories: spa angular
 image: "/assets/images/Angular-12-Now-Released.png"
