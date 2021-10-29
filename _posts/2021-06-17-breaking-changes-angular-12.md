@@ -24,7 +24,7 @@ L'une des principales améliorations d'Angular 12 est que les stratégies de la 
 
 #### Core:
 
-Le type du jeton `APP_INITIALIZER` a été modifié pour refléter plus précisément les types de valeurs de retour pris en charge par Angular. Avant cela, chaque rappel d'initialisation était composé pour en renvoyer n'importe lequel, il s'agit actuellement de `Promise <unknown>` | `Observable <inconnu>`.
+Le type du jeton `APP_INITIALIZER` a été modifié pour refléter plus précisément les types de valeurs de retour pris en charge par Angular. Avant cela, chaque rappel d'initialisation était composé pour en renvoyer n'importe lequel, il s'agit actuellement de `Promise <unknown>`, `Observable <inconnu>`.
 
 #### Compiler - CLI:
 
