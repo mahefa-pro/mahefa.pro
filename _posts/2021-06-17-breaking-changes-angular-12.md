@@ -32,7 +32,7 @@ L'une des caractéristiques d'Angular 10 les plus intéressantes a été l'utili
 
 #### Form:
 
-Auparavant, les attributs « min » et « max » caractérisés sur le <input type=" number"> étaient ignorés par le module Forms. Actuellement, la présence de ces caractéristiques déclencherait une logique de validation min/max et la comparaison de l'état du contrôle de formulaire refléterait cela. 
+Auparavant, les attributs « min » et « max » caractérisés sur le `<input type=" number">` étaient ignorés par le module Forms. Actuellement, la présence de ces caractéristiques déclencherait une logique de validation min/max et la comparaison de l'état du contrôle de formulaire refléterait cela. 
 
 #### Platform browser:
 
