@@ -55,4 +55,5 @@ plugins:
 #   - vendor/ruby/
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+# google_analytics: UA—XXXXXXXX-X
+google_analytics: 291692082
