@@ -12,6 +12,7 @@ I’m a :
 
  - Technical Lead (Main professional activity)
  - Senior Software Engineer (Passional activity)
+ - Project Manager
  - Software Architect
 <br/><br/>
 
