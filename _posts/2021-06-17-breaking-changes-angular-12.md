@@ -8,11 +8,11 @@ author: "Mahefa Abel"
 locale: "fr"
 ---
 
-![Angular 12](/assets/images/Angular-12-Now-Released.png)
+![Image Angular 12](/assets/images/Angular-12-Now-Released.png)
 
 ### Breaking changes in Angular 12
 
-Voici un grand changement angulaire 12
+Voici quelques gros changements angular 12
 
 #### Animation:
 
