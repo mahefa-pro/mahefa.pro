@@ -20,7 +20,7 @@ Dans Angular, la version 12 présente les composants DOM qui sont actuellement �
 
 #### Common:
 
-L'une des principales améliorations d'Angular 12 est que les stratégies de la classe HttpParams reconnaissent actuellement la chaîne | nombre | booléen plutôt que chaîne pour la valeur d'un paramètre. Si vous avez développé cette classe dans votre application, vous devrez mettre à jour les signatures de vos stratégies pour refléter ces changements.
+L'une des principales améliorations d'Angular 12 est que les stratégies de la classe HttpParams reconnaissent actuellement la chaîne, nombre, booléen plutôt que chaîne pour la valeur d'un paramètre. Si vous avez développé cette classe dans votre application, vous devrez mettre à jour les signatures de vos stratégies pour refléter ces changements.
 
 #### Core:
 
