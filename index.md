@@ -18,13 +18,12 @@ I’m, Mahefa, a :
 <hr/>
 <br/>
 Since beginning my journey as a Developer nearly 6 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my skill.
+Remotely available around UTC+3 timezone.
 <br/>
 <hr/>
 <br/>
 In this website, you will find my projects and my blog.
-
 <br/>
-
 [Projects](/projects)
 
 _“Everything” I work on._
