@@ -6,17 +6,29 @@ permalink: /projects/
 
 Most of these are offered without a warranty.
 
--   [DNSUp (Azure DNS)](/projects/dnsup-azure/)
+-   [Ndao Handroso](/projects/ndao-handroso/)
     
-    goinfrastructureazure
+    Private Repository
     
-    DNSUp (Azure) is a version of DNSUp (see below) that updates Azure
+    Mobile Application for manage skill
+
+    Technical Info : React Native, Symfony, Wordpress
+
+-   [CV Manager](/projects/cv-manager/)
     
--   [www.mahefa.pro](/projects/www.mahefa.pro/)
+    Private Repository
+    
+    App web for manager CV
+
+    Technical Info : Node.js, TS, React.js
+    
+-   [www.mahefa.pro](/projects/mahefa.pro/)
     
     web
     
-    this website
+    This website
+
+    Technical Info : Jekyll, Ruby
     
 -   [pkgweb](/projects/pkgweb/)
     

@@ -24,6 +24,7 @@ I'm from Madagascar, so I'm remotely available around UTC+3 timezone (±3).
 <br/>
 In this website, you will find my projects and my blog.
 <br/>
+
 [Projects](/projects)
 
 _“Everything” I work on._
