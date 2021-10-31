@@ -110,13 +110,8 @@ Most of these are offered without a warranty.
     
     An integrated download manager for Safari on iOS 3.1 - 6.0
     
-
+<br/><br/>
 <div id="professional"></div>
 ## Professional projects
 
--   [CyDelete](/projects/cydelete/)
-    
-    ios
-    
-    CyDelete was an iPhoneOS (2.2 - 6.0) tweak that allowed you to uninstall Cydia applications from SpringBoard
-
+[Work in progress]
