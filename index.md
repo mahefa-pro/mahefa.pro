@@ -25,14 +25,14 @@ I'm from Madagascar, so I'm remotely available around UTC+3 timezone (±3).
 In this website, you will find my projects and my blog.
 <br/>
 
-[Projects](/projects)
+[**Projects**](/projects)
 
 _“Everything” I work on._
 
 I produce projects and documentation at wildly different rates, so this is by no means comprehensive.
 <br/><br/>
 
-<!-- [Incantations](/spellbook)
+<!-- [**Incantations**](/spellbook)
 
 _n. spells or verbal charms spoken as part of a ritual_
 
@@ -46,11 +46,11 @@ _n. Everything related to my thesis work_
 My current and planning thesis work
 <br/><br/> -->
 
-[Blog](/blog)
+[**Blog**](/blog)
 
 _n. Everything I want to write on_
 
 I love to write posts in my field.
 <br/><br/>
 
-<!-- [Contact](/contact) -->
+<!-- [**Contact**](/contact) -->
