@@ -6,9 +6,9 @@ permalink: /projects/
 
 - [Personal projects](#personal)
 - [Professional projects](#professional)
-
+<br/><br/>
 <hr/>
-
+<br/><br/>
 <div id="personal"></div>
 ## Personal projects
 
@@ -110,7 +110,7 @@ Most of these are offered without a warranty.
     
     An integrated download manager for Safari on iOS 3.1 - 6.0
     
-<br/><br/>
+<br/><br/><br/><br/>
 <div id="professional"></div>
 ## Professional projects
 
