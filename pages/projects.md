@@ -4,10 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
-- [Personal project](#personal)
-- [Professional project](#professional)
+- [Personal projects](#personal)
+- [Professional projects](#professional)
 
 <hr/>
+
+<div id="personal">
+## Personal projects
 
 Most of these are offered without a warranty.
 
@@ -107,8 +110,15 @@ Most of these are offered without a warranty.
     
     An integrated download manager for Safari on iOS 3.1 - 6.0
     
+</div>
+
+<div id="professional">
+## Professional projects
+
 -   [CyDelete](/projects/cydelete/)
     
     ios
     
     CyDelete was an iPhoneOS (2.2 - 6.0) tweak that allowed you to uninstall Cydia applications from SpringBoard
+
+</div>
