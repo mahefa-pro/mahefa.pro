@@ -4,9 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
+- [Personal project](#personal)
+- [Professional project](#professional)
+
+<hr/>
+
 Most of these are offered without a warranty.
 
--   [Ndao Handroso](/projects/ndao-handroso/)
+-   [Ndao Handroso](/projects/ndao-handroso.html)
     
     Private Repository
     
@@ -14,7 +19,7 @@ Most of these are offered without a warranty.
 
     Technical Info : React Native, Symfony, Wordpress
 
--   [CV Manager](/projects/cv-manager/)
+-   [CV Manager](/projects/cv-manager.html)
     
     Private Repository
     
@@ -22,7 +27,7 @@ Most of these are offered without a warranty.
 
     Technical Info : Node.js, TS, React.js
     
--   [www.mahefa.pro](/projects/mahefa.pro/)
+-   [www.mahefa.pro](/projects/mahefa.pro.html)
     
     web
     
