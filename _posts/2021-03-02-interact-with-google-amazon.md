@@ -3,6 +3,8 @@ layout: post
 title:  "Interagir avec Google et Amazon"
 date:   2021-03-02 18:26:45 +0300
 categories: cloud
+# image: "/assets/images/wso2-apim.gif"
+author: "Mahefa Abel"
 ---
 
 L’objectif de cet article est de partager les fondamentaux du Cloud Computing

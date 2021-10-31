@@ -3,6 +3,8 @@ layout: post
 title:  "Software Architecture Guide"
 date:   2021-03-01 17:26:45 +0300
 categories: architecture
+# image: "/assets/images/wso2-apim.gif"
+author: "Mahefa Abel"
 ---
 ## What is architecture?
 People in the software world have long argued about a definition of architecture. For some it's something like the fundamental organization of a system, or the way the highest level components are wired together. My thinking on this was shaped by an email exchange with Ralph Johnson, who questioned this phrasing, arguing that there was no objective way to define what was fundamental, or high level and that a better view of architecture was the shared understanding that the expert developers have of the system design.

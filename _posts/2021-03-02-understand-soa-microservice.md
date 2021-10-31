@@ -3,6 +3,8 @@ layout: post
 title:  "Comprendre l’architecture orientée service et le microservice"
 date:   2021-03-02 17:26:45 +0300
 categories: architecture
+# image: "/assets/images/wso2-apim.gif"
+author: "Mahefa Abel"
 ---
 
 # Qu’est-ce que l’architecture orientée services?
