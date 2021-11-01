@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Microservices : C'est que c'est et son architecture"
-date:   2021-10-24 11:26:45 +0300
-categories: wso2 apim eda
+date:   2021-10-31 20:22:21 +0300
+categories: microservice
 image: "/assets/images/wso2-apim.gif"
 author: "Mahefa Abel"
 ---
