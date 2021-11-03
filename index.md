@@ -6,7 +6,7 @@ layout: home
 list_title: Blog Post
 ---
     
-<h1> Technical Lead & Mentor </h1>
+<h1> Technical Lead </h1>
 
 I’m, Mahefa, a :
 
@@ -18,7 +18,7 @@ I’m, Mahefa, a :
 <hr/>
 <br/>
 Since beginning my journey as a Developer nearly 6 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my skill. <br/>
-I'm from Madagascar, so I'm remotely available around UTC+3 timezone (±3).
+I'm from Madagascar, and remotely available around UTC+3 timezone (±3).
 <br/>
 <hr/>
 <br/>
