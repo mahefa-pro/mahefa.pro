@@ -3,11 +3,11 @@ layout: post
 title:  "Microservices : C'est que c'est et son architecture"
 date:   2021-10-31 20:22:21 +0300
 categories: microservice
-image: "/assets/images/wso2-apim.gif"
+image: "/assets/images/Microservice-cloud.jpg"
 author: "Mahefa Abel"
 ---
 
-![WSO2 APIM](/assets/images/wso2-apim.gif)
+![Micro Service](/assets/images/Microservice-cloud.jpg)
 
 ## What are Microservices?
 
