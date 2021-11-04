@@ -15,7 +15,7 @@ author: "Mahefa Abel"
 
 Le terme « micro » fait référence au dimensionnement d'un microservice qui doit être gérable par une seule équipe de développement (5 à 10 développeurs). Dans cette méthodologie, les grosses applications sont divisées en plus petites unités indépendantes.
 
-## What is Microservice Architecture?
+## Qu'est-ce que l'architecture de microservices ?
 
 **Microservice Architecture**  is an architectural development style that allows building applications as a collection of small autonomous services developed for a business domain. It is a variant of structural style architecture that helps arrange applications as a loosely coupled service collection. The Microservice Architecture contains fine-grained services and lightweight protocols.
 
