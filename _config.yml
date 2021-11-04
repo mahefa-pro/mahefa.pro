@@ -27,7 +27,7 @@ url: "https://www.mahefa.pro/" # the base hostname & protocol for your site, e.g
 twitter_username: MahefaAbel
 github_username:  mahefaabel
 linkedin_username: mahefa-abel
-show_excerpts: true
+# show_excerpts: true
 
 # Build settings
 theme: minima
