@@ -23,7 +23,7 @@ Let’s take an example of e-commerce application developed with microservice ar
 
 ![Microservices Architecture](/assets/images/micro-service-ui-2.png)
 
-## Microservices vs. Monolithic Architecture
+<!-- ## Microservices vs. Monolithic Architecture -->
 
 ## Les défis des microservices
 
