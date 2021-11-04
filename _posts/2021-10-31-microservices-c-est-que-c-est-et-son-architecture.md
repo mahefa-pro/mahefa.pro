@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Microservices : C'est que c'est et son architecture"
-date:   2021-10-31 20:22:21 +0300
+date:   2021-11-02 20:22:21 +0300
 categories: microservice
 image: "/assets/images/Microservice-cloud.jpg"
 author: "Mahefa Abel"
@@ -9,11 +9,11 @@ author: "Mahefa Abel"
 
 ![Micro Service](/assets/images/Microservice-cloud.jpg)
 
-## What are Microservices?
+## Microservices, c'est quoi ?
 
-**Microservices**  is a service-oriented architecture pattern wherein applications are built as a collection of various smallest independent service units. It is a  [software engineering](https://www.guru99.com/what-is-software-engineering.html)  approach that focuses on decomposing an application into single-function modules with well-defined interfaces. These modules can be independently deployed and operated by small teams that own the entire lifecycle of the service.
+**Microservices** est un modèle d'architecture orienté service dans lequel les applications sont construites comme un ensemble de diverses unités de service indépendantes les plus petites. Il s'agit d'une approche d'ingénierie logicielle qui se concentre sur la décomposition d'une application en modules à fonction unique avec des interfaces bien définies. Ces modules peuvent être déployés et exploités indépendamment par de petites équipes qui possèdent l'intégralité du cycle de vie du service.
 
-The term “micro” refers to the sizing of a microservice which must be manageable by a single development team ( 5 to 10 developers). In this methodology, big applications are divided into smallest independent units.
+Le terme « micro » fait référence au dimensionnement d'un microservice qui doit être gérable par une seule équipe de développement (5 à 10 développeurs). Dans cette méthodologie, les grosses applications sont divisées en plus petites unités indépendantes.
 
 ## What is Microservice Architecture?
 
@@ -21,40 +21,40 @@ The term “micro” refers to the sizing of a microservice which must be manage
 
 Let’s take an example of e-commerce application developed with microservice architecture. In this Microservices architecture example, each microservice is focused on single business capability. Search, Rating & Review and Payment each have their instance (server) and communicate with each other.
 
-![Microservices Architecture](https://cdn.guru99.com/images/tableau/060818_0716_Microservic2.png)
+![Microservices Architecture](/assets/images/micro-service-ui-2.png)
 
 ## Microservices vs. Monolithic Architecture
 
-## Microservice Challenges
+## Les défis des microservices
 
--   MicroServices rely on each other, and they will have to communicate with each other.
--   Compared to monolithic systems, there are more services to monitor which are developed using different  [programming languages](https://www.guru99.com/best-programming-language.html).
--   As it is a distributed system, it is an inherently complex model.
--   Different services will have its separate mechanism, resulting in a large amount of memory for an unstructured data.
--   Effective management and teamwork required to prevent cascading issues
--   Reproducing a problem will be a difficult task when it’s gone in one version, and comes back in the latest version.
--   Independent Deployment is complicated with Microservices.
--   Microservice architecture brings plenty of operations overhead.
+- Les MicroServices dépendent les uns des autres, et ils devront communiquer entre eux.
+- Par rapport aux systèmes monolithiques, il y a plus de services à surveiller qui sont développés en utilisant différents langages de programmation.
+- S'agissant d'un système distribué, il s'agit d'un modèle intrinsèquement complexe.
+- Différents services auront leur mécanisme séparé, ce qui entraînera une grande quantité de mémoire pour des données non structurées.
+- Gestion efficace et travail d'équipe requis pour éviter les problèmes en cascade
+- Reproduire un problème sera une tâche difficile lorsqu'il est parti dans une version et revient dans la dernière version.
+- Le déploiement indépendant est compliqué avec les microservices.
+- L'architecture de microservices entraîne de nombreux frais généraux d'exploitation.
+- Il est difficile de gérer l'application lorsque de nouveaux services sont ajoutés au système
+- Un large éventail de professionnels qualifiés est nécessaire pour prendre en charge les microservices distribués de manière hétérogène
+- Le microservice est coûteux, car vous devez conserver un espace serveur différent pour différentes tâches commerciales.
 
--   It is difficult to manage application when new services are added to the system
--   A wide array of skilled professionals is required to support heterogeneously distributed microservices
--   Microservice is costly, as you need to maintain different server space for different business tasks.
-## Microservices Tools
+## Les outils Microservices
 
-### 1) Wiremock: Testing Microservices
+### 1) Wiremock: Tester les microservices
 
-WireMock is a flexible library for stubbing and mocking web services. It can configure the response returned by the HTTP API when it receives a specific request. It is also y used for testing Microservices.
+WireMock est une bibliothèque flexible pour le stub et les services Web moqueurs. Il peut configurer la réponse renvoyée par l'API HTTP lorsqu'il reçoit une requête spécifique. Il est également utilisé pour tester les microservices.
 
-**Download link:**  [**http://wiremock.org/**](http://wiremock.org/)
+**Lien de téléchargement:**  [**http://wiremock.org/**](http://wiremock.org/)
 
 ### 2) Docker
 
-Docker is open source project that allows us to create, deploy, and run applications by using containers. By using these containers, developers can run an application as a single package. It allows you to ship libraries and other dependencies in one package.
+Docker est un projet open source qui nous permet de créer, déployer et exécuter des applications à l'aide de conteneurs. En utilisant ces conteneurs, les développeurs peuvent exécuter une application en tant que package unique. Il vous permet d'expédier des bibliothèques et d'autres dépendances dans un seul paquet.
 
-**Download link:**  [**https://www.docker.com/**](https://www.docker.com/)
+**Lien de téléchargement:**  [**https://www.docker.com/**](https://www.docker.com/)
 
 ### 3) Hystrix
 
-Hystrix is a fault tolerance java library. This tool is designed to separate points of access to remote services, systems, and 3rd-party libraries in a distributed environment like Microservices. It improves overall system by isolating the failing services and preventing the cascading effect of failures.
+Hystrix est une bibliothèque Java de tolérance aux pannes. Cet outil est conçu pour séparer les points d'accès aux services distants, aux systèmes et aux bibliothèques tierces dans un environnement distribué comme les microservices. Il améliore le système global en isolant les services défaillants et en empêchant l'effet en cascade des défaillances.
 
-**Download Link:**  [https://github.com/Netflix/Hystrix](https://github.com/Netflix/Hystrix)
+**Lien de téléchargement:**  [https://github.com/Netflix/Hystrix](https://github.com/Netflix/Hystrix)
