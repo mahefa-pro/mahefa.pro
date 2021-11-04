@@ -1,3 +1,3 @@
-# CV Manager
+## CV Manager
 
 [Work in progress]
