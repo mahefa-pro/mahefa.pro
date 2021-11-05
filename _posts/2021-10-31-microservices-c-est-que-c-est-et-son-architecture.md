@@ -17,9 +17,9 @@ Le terme « micro » fait référence au dimensionnement d'un microservice qui d
 
 ## Qu'est-ce que l'architecture de microservices ?
 
-**Microservice Architecture**  is an architectural development style that allows building applications as a collection of small autonomous services developed for a business domain. It is a variant of structural style architecture that helps arrange applications as a loosely coupled service collection. The Microservice Architecture contains fine-grained services and lightweight protocols.
+**Microservice Architecture** est un style de développement architectural qui permet de créer des applications sous la forme d'un ensemble de petits services autonomes développés pour un domaine d'activité. Il s'agit d'une variante de l'architecture de style structurel qui permet d'organiser les applications sous la forme d'une collection de services faiblement couplée. L'architecture Microservice contient des services à grain fin et des protocoles légers.
 
-Let’s take an example of e-commerce application developed with microservice architecture. In this Microservices architecture example, each microservice is focused on single business capability. Search, Rating & Review and Payment each have their instance (server) and communicate with each other.
+Prenons un exemple d'application de commerce électronique développée avec une architecture de microservices. Dans cet exemple d'architecture de microservices, chaque microservice se concentre sur une capacité métier unique. Search, Rating & Review et Payment ont chacun leur instance (serveur) et communiquent entre eux.
 
 ![Microservices Architecture](/assets/images/micro-service-ui-2.png)
 
