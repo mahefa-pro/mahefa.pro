@@ -9,7 +9,7 @@ author: "Mahefa Abel"
 
 ![Cybersécurité et OWASP](/assets/images/owasp.png)
 
-Alors que le monde évolue de plus en plus vers un format numérique, la cybersécurité devient plus importante que jamais. C'est d'autant plus important que, selon une récente enquête de Sophos, 51 % des entreprises américaines ont subi une attaque de ransomware en 2020. C'est un nombre impressionnant de vulnérabilités de sécurité qui ne devraient vraiment pas exister de nos jours. Pourtant, c'est relativement compréhensible.
+Alors que le monde évolue de plus en plus vers un format numérique, la cybersécurité devient plus importante que jamais. C'est d'autant plus important que 51 % des entreprises américaines ont subi une attaque de ransomware en 2020. C'est un nombre impressionnant de vulnérabilités de sécurité qui ne devraient vraiment pas exister de nos jours. Pourtant, c'est relativement compréhensible.
 
 ## Sécurité des applications
 
@@ -22,6 +22,8 @@ Par exemple, prenez la récente mise à jour de l'énumération des faiblesses c
 Comme vous pouvez l'imaginer, une grande partie du monde moderne est hébergée dans le cloud. et par conséquent, la sécurité du cloud joue un rôle important pour garantir la sécurité des données. En fait, la sécurité des applications hébergées dans le cloud est devenue un problème, d'autant plus qu'il n'y a souvent pas de personne DevSecOps spécifique au cloud pour s'assurer que l'application est à l'abri des vulnérabilités extérieures potentielles.
 
 ## L'importance de l'OWASP
+
+C'est là que l'Open Web Application Security Project (OWASP) devient un guide précieux. OWASP est un ensemble de directives et de critères stricts pour la sécurité des applications. La liste de contrôle OWASP aide les développeurs à intégrer plus facilement les normes de sécurité recommandées tout en aidant à éviter les failles de codage qui peuvent compromettre la sécurité.
 
 -   **Encodage de sortie**: Toute information saisie par un utilisateur doit être encodée avant d'être validée car elle est un vecteur possible d'attaque. Cela signifie que la sortie doit être filtrée contextuellement à l'aide d'une routine de test standard. En fait, .Net Core a un codage de sortie intégré.
 
