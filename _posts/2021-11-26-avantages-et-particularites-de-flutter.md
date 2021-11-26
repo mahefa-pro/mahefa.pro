@@ -11,6 +11,9 @@ author: "Mahefa Abel"
 
 # Avantages et particularités de Flutter
 
+Cours sur wecours : 
+http://wecours.com/courses/flutter-dart-le-cours-complet-de-developpement-dapplications-flutter/
+
 ## Les 4 principaux avantages de Flutter
 
 Flutter est un projet open source développé par Google. Il s’appuie sur le langage de programmation DART, lancé en 2011. Flutter est un framework capable de faire du développement multiplateformes.
